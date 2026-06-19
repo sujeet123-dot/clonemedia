@@ -8,11 +8,10 @@ const fadeUp = {
 }
 
 const timeline = [
-  { year: '2025', event: 'TheBuzzDrop Media founded by a trio of filmmakers and strategists in Mumbai.' },
+  { year: '2025', event: 'TheBuzzDrop Media founded by a trio of filmmakers and strategists in Delhi.' },
   { year: '2026', event: 'Secured first national brand campaign; grew team to 15 creatives.' },
   { year: '2026', event: 'Pivoted to digital-first content — became a top digital media partner regionally.' },
   { year: '2026', event: 'Launched our in-house video studio and analytics division.' },
-  { year: '2026', event: 'Expanded to international markets: Dubai, Singapore, and London.' },
   { year: '2026', event: 'Surpassed 450 campaigns and 12M cumulative content views across platforms.' },
 ]
 
@@ -27,7 +26,7 @@ const values = [
 
 const team = [
   { name: 'Aman RAJ', role: 'Co-founder & Creative Director', initials: 'AK', color: '#e94560' },
-  { name: 'Prathmesh kumar', role: 'Co-founder & Brand Strategist', initials: 'NR', color: '#00d4ff' },
+  { name: 'Suman kumar', role: 'Co-founder & Brand Strategist', initials: 'NR', color: '#00d4ff' },
 ]
 
 export default function About() {
