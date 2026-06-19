@@ -108,7 +108,7 @@ export default function About() {
           <div className="text-center mb-16">
             <p className="section-tag justify-center">Our Journey</p>
             <h2 className="text-4xl md:text-5xl font-black">
-              Six Years of <span className="text-gradient">Building Bold</span>
+              One Years of <span className="text-gradient">Building Bold</span>
             </h2>
           </div>
 
